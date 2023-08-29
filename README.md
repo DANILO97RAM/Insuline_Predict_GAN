@@ -24,7 +24,7 @@ El objetivo principal de este proyecto es desarrollar un modelo de GAN que pueda
 ## Instrucciones de Uso
 
 1. Clona este repositorio en tu máquina local.
-2. Instala las dependencias requeridas ejecutando el siguiente comando:
+2. Instala las dependencias requeridas ejecutando el siguiente comando (se recoeminda el uso de un entorno de python):
 ´pip install -r requirements.txt´
 3. Explora las diferentes carpetas y archivos para comprender la estructura y el funcionamiento del proyecto.
 4. Ejecuta el archivo `main.py` para cargar y entrenar el modelo GAN.
