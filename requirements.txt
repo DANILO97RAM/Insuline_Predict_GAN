@@ -4,3 +4,4 @@ matplotlib
 plotly
 tensorflow
 scikit-learn
+datetime
