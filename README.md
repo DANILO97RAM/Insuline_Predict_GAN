@@ -14,11 +14,11 @@ El objetivo principal de este proyecto es desarrollar un modelo de GAN que pueda
 
 ## Estructura del Repositorio
 
-- `architecturas/`: Esta carpeta contiene los códigos y archivos asociados a las diferentes arquitecturas de generador que se han entrenado.
+- `architecturas/`: Esta carpeta contiene los códigos y archivos asociados a las diferentes arquitecturas de generador que se han entrenado (se está trabajando en otra rama, con el tiempo se actualizará).
 - `datasets/`: Aquí se encuentran los conjuntos de datos utilizados para el entrenamiento y validación del modelo.
-- `resultados/`: En esta carpeta se almacenan los resultados, gráficos y otros datos generados durante el proceso de entrenamiento.
-- `utils/`: Contiene scripts y funciones auxiliares utilizados en el proyecto.
-- `main.py`: Este archivo es el punto de entrada principal del proyecto y contiene el flujo principal de código para cargar, entrenar y evaluar el modelo.
+- `resultados/`: En esta carpeta se almacenan los resultados, gráficos y otros datos generados durante el proceso de entrenamiento (se está trabajando en otra rama, con el tiempo se actualizará).
+- `utils/`: Contiene scripts y funciones auxiliares utilizados en el proyecto (se está trabajando en otra rama, con el tiempo se actualizará).
+- `main.py`: Este archivo es el punto de entrada principal del proyecto y contiene el flujo principal de código para cargar, entrenar y evaluar el modelo (se está trabajando en otra rama, con el tiempo se actualizará).
 - `requirements.txt`: Un archivo que enumera todas las dependencias necesarias para reproducir el entorno del proyecto.
 
 ## Instrucciones de Uso
@@ -35,4 +35,4 @@ Las contribuciones a este proyecto son bienvenidas. Si deseas contribuir, asegú
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [MIT](LICENSE).
+Este proyecto es público, cualquier contribución será revisada, y en caso de ser apropiada para el poyecto se tendrá en cuenta.
